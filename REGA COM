@@ -1,0 +1,8 @@
+Pkg update && pkg upgrade 
+pkg install git
+pkg install python2
+git clone https://github.com/MR-REGA/MR-REGA
+ls
+cd MR-REGA
+python2 MR-REGA.py
+
